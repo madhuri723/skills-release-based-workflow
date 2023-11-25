@@ -137,6 +137,6 @@ table {
 }
 
 /* Give canvas a background */
-canvas {
+canvas {/**/
   background-color: black;
 }
